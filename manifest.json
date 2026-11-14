@@ -1,6 +1,6 @@
 {
   "name": "NoclipMod",
-  "version_number": "1.4.0",
+  "version_number": "1.4.5",
   "website_url": "https://github.com/sanswithagun20/NoclipMod",
   "description": "A noclip mod, comes with, ground detector, airwalk, and wall transfer, experimental.",
   "dependencies": [ 
